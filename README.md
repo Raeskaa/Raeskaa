@@ -13,8 +13,8 @@ Hi, I'm [Mahesh Tripathi](#), an undergraduate student at [Indian Institute of T
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-<br>
-<br/>
+  
+  <br/>
  🔭 I’m Learning  **Backend Development**    
  🦆 I 💗 **Open Source**      
  🥴 Apart from regular O<sub>2</sub>, I also breath [Spotify](https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k)   
