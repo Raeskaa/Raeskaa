@@ -13,7 +13,8 @@ Hi, I'm [Mahesh Tripathi](#), an undergraduate student at [Indian Institute of T
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
+<br>
+<br/>
  🔭 I’m Learning  **Backend Development**    
  🦆 I 💗 **Open Source**      
  🥴 Apart from regular O<sub>2</sub>, I also breath [Spotify](https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k)   
@@ -22,7 +23,6 @@ Hi, I'm [Mahesh Tripathi](#), an undergraduate student at [Indian Institute of T
 
 **Languages and Tools**
 <br>
-
 <code><img height = "20" src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/jquery-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
