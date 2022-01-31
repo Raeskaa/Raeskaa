@@ -16,7 +16,8 @@ Hi, I'm [Mahesh Tripathi](#), an undergraduate student at [Indian Institute of T
   
  🔭 I’m Learning  **Backend Development**    
  🦆 I 💗 **Open Source**      
- 🥴 Apart from regular O<sub>2</sub>, I also breath [Spotify](https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k)   
+ 🥴 Apart from regular O<sub>2</sub>, I also breath [Spotify](https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k)  
+ 👀 You can read my Blogs [Here](https://maheshtripathi.hashnode.dev/)  
  📮 Reach me : [Mail](mailto:t.mahesh@iitg.ac.in) </br>
  <br/>
 
