@@ -2,13 +2,13 @@
 <p align="left">
 <a href="https://twitter.com/Raeska000" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Raeskaa/Raeskaa/main/Resources/png/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raeska/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Raeskaa/Raeskaa/main/Resources/png/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ricefarmii/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Raeskaa/Raeskaa/main/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/raeskaaa/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Raeskaa/Raeskaa/main/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k?si=483eb0b12b894eb9" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Raeskaa/Raeskaa/main/Resources/png/spotify.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/+919321108559" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Raeskaa/Raeskaa/main/Resources/png/whatsapp.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
-Hi, I'm [Mahesh Tripathi](#), a prefinal year undergraduate at [Indian Institute of Technology Guwahati (IITG)](https://www.iitg.ac.in/).After some introspection in my 1st and 2nd year of Bachelours in Biotechnology, I finally found my calling in design. So basically I am living my dream. I'm a UI/UX Designer and I love to design meaningful digital products bringing user-driven solutions & learn everyday.I am currently the design head at [Coding Club IITG](https://github.com/Coding-Club-IITG) Apart from my work I 💖 [Imtiaz Ali](https://raeskaa.github.io/Imtiaz-Ali-Day3/) movies.
+Hi, I'm [Mahesh Tripathi](#), a prefinal year undergraduate at [Indian Institute of Technology Guwahati (IITG)](https://www.iitg.ac.in/). After some introspection in my 1st and 2nd year of Bachelours in Biotechnology, I finally found my calling in design. So basically I am living my dream. I'm a UI/UX Designer and I love to design meaningful digital products bringing user-driven solutions & learn everyday.I am currently the design head at [Coding Club IITG](https://github.com/Coding-Club-IITG) Apart from my work I 💖 [Imtiaz Ali](https://raeskaa.github.io/Imtiaz-Ali-Day3/) movies.
 
 <br>
 
