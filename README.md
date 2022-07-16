@@ -8,13 +8,13 @@
 </p>
 <br>
 
-Hi, I'm [Mahesh Tripathi](#), a prefinal year undergraduate at [Indian Institute of Technology Guwahati (IITG)](https://www.iitg.ac.in/).After some introspection in my 1st and 2nd year of Bachelours at IITG, I finally found my calling in design. So basically I am living my dream. I'm a UI/UX Designer and I love to design meaningful digital products bringing user-driven solutions & learn everyday.I am currently the design head at [Coding Club IITG](https://github.com/Coding-Club-IITG) Apart from my work I 💖 [Imtiaz Ali](https://raeskaa.github.io/Imtiaz-Ali-Day3/) movies.
+Hi, I'm [Mahesh Tripathi](#), a prefinal year undergraduate at [Indian Institute of Technology Guwahati (IITG)](https://www.iitg.ac.in/).After some introspection in my 1st and 2nd year of Bachelours in Biotechnology, I finally found my calling in design. So basically I am living my dream. I'm a UI/UX Designer and I love to design meaningful digital products bringing user-driven solutions & learn everyday.I am currently the design head at [Coding Club IITG](https://github.com/Coding-Club-IITG) Apart from my work I 💖 [Imtiaz Ali](https://raeskaa.github.io/Imtiaz-Ali-Day3/) movies.
 
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
   
- 🔭 I’m Learning  **Human Computer Interaction**    
+ 🔭 I’m Learning  **Human Computer Interaction**, **Graphic Design**      
  🦆 I 💗 **Open Source**      
  🥴 Apart from regular O<sub>2</sub>, I also breath [Spotify](https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k)  
  👀 You can read my Blogs on Tech [Here](https://maheshtripathi.hashnode.dev/) and Design [Here](#)
