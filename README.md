@@ -17,7 +17,7 @@ Hi, I'm [Mahesh Tripathi](#), a prefinal year undergraduate at [Indian Institute
  🔭 I’m Learning  **Human Computer Interaction**, **Graphic Design**      
  🦆 I 💗 **Open Source**      
  🥴 Apart from regular O<sub>2</sub>, I also breath [Spotify](https://open.spotify.com/user/fomcwma43bk8q39jkrp90eu2k)  
- 👀 You can read my Blogs on Tech [Here](https://maheshtripathi.hashnode.dev/) and Design [Here](#)
+ 👀 You can read my Blogs on Tech [Here](https://maheshtripathi.hashnode.dev/) and Design [Here](https://www.behance.net/raeskaa)
  📮 Reach me : [Mail](mailto:t.mahesh@iitg.ac.in) </br>
  <br/>
 
